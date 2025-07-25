@@ -109,5 +109,5 @@ powershell.exe -ExecutionPolicy Bypass -File "clear_1C_cash.ps1"
 
 ---
 
-Copyright © 2025 Кодельник Максим Сергеевич (ООО "Генштаб") | MIT License
+Copyright © 2025 Кодельник Максим Сергеевич | MIT License  
 Версия: 2.0 (2025-07-24)
